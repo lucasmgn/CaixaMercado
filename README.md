@@ -40,5 +40,27 @@ getValortotal();
 autorizar(Autorizavel, Cartao cartao)
 
 <h2>Classe CARTAO </h2>
-<p>Atributos:</p>
-<p>nomeTitular;</p>
+
+<b>Atributos:</b>
+	<p>private String nomeTitular;</p>
+	<p>private String numeroCartao;</p>
+	<p>Metodos getters e setters</p>
+	
+<h2>Classe COMPRA </h2>	
+
+<p>Que implementa as interfaces Autorizavel e Imprimivel</p>
+
+<b>Atributos:</b>
+
+	private double valorTotal;
+	private String produto;
+	private String nomeCliente;
+	
+<p> Com metodos getters e setters</p>
+
+<p> Valor total do produto, nome do produto e o nome do cliente</p>
+	
+<h2> Uma classe para executar os Testes</h2>
+
+<p>Validando Informações e Imprimindo na tela.</p>
+
