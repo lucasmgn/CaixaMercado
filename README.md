@@ -64,3 +64,6 @@ autorizar(Autorizavel, Cartao cartao)
 
 <p>Validando Informações e Imprimindo na tela.</p>
 
+![Captura de Tela (29)](https://user-images.githubusercontent.com/81782608/156782232-d0aed18c-42ad-4530-af55-4ac2e89d7835.png)
+
+
